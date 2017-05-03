@@ -1,0 +1,6 @@
+D:\资料\4\20170503EventDemo\EventDemo\bin\Debug\EventDemo.exe.config
+D:\资料\4\20170503EventDemo\EventDemo\bin\Debug\EventDemo.exe
+D:\资料\4\20170503EventDemo\EventDemo\bin\Debug\EventDemo.pdb
+D:\资料\4\20170503EventDemo\EventDemo\obj\Debug\EventDemo.csprojResolveAssemblyReference.cache
+D:\资料\4\20170503EventDemo\EventDemo\obj\Debug\EventDemo.exe
+D:\资料\4\20170503EventDemo\EventDemo\obj\Debug\EventDemo.pdb
